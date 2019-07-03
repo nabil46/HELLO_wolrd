@@ -1,2 +1,1 @@
-# HELLO_wolrd
-Hackerused
+Print"hello world"
